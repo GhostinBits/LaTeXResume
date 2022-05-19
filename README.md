@@ -1,1 +1,1 @@
-<img src="https://github.com/GhostinBits/LaTeXResume/blob/main/preview_.png" style="width: 55vw; min-width:100px;" />
+<img src="https://github.com/GhostinBits/LaTeXResume/blob/main/preview_.png" style="height:50%;" />
